@@ -3,7 +3,6 @@ import sys
 import os
 import re
 
-arguments = ["-v", "--verbose"]
 exceptions = ["toolbox"]
 
 def main():
